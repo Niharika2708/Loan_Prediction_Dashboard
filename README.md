@@ -1,6 +1,14 @@
 # My Flask Dashboard 🚀  
 
-A simple Flask-based dashboard prototype.
+A classification model to predict clients who are likely to default on their loans. Gives recommendations to the bank on important
+features to consider while approving a loan. 
+
+Concepts used:
+
+* Logistic Regression
+* Decision Trees
+* Random Forests
+* Ensemble Methods
 
 ## 📂 Project Structure
 
