@@ -1,7 +1,7 @@
 # My Flask Dashboard 🚀  
 
-A classification model to predict clients who are likely to default on their loans. Gives recommendations to the bank on important
-features to consider while approving a loan. 
+A classification model to predict clients who are likely to default on their loans.
+Gives recommendations to the bank on important features to consider while approving a loan. 
 
 Concepts used:
 
