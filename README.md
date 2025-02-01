@@ -3,12 +3,13 @@
 A simple Flask-based dashboard prototype.
 
 ## 📂 Project Structure
-data/ - Data files (excluded from GitHub)
-models/ - Machine learning models
-notebooks/ - Jupyter notebooks
-dashboard/ - Frontend (empty for now)
-scripts/ - Main scripts
-venv/ - Virtual environment (not included)
+
+* data/ - Data files (excluded from GitHub)
+* models/ - Machine learning models
+* notebooks/ - Jupyter notebooks
+* dashboard/ - Frontend (empty for now)
+* scripts/ - Main scripts
+* venv/ - Virtual environment (not included)
 
 ## 🛠 Installation & Setup  
 
