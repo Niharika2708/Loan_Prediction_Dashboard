@@ -194,7 +194,6 @@ if st.sidebar.button("🚀 Predict Default Risk"):
     st.metric(label="Predicted Default Risk", value=f"{prediction:.2%}")
     
     if prediction < 0.3:
-    	st.success(" 💪🏻 Low Eisk
         st.success("💪 Low Risk - Loan Likely to be Approved!")
     elif prediction < 0.7:
         st.warning("⚠️ Medium Risk - Further Evaluation Needed.")
