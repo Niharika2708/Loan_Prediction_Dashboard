@@ -9,15 +9,18 @@ Concepts used:
 * Decision Trees
 * Random Forests
 * Ensemble Methods
+  
+
+## ✨View it Here! 
+
+https://05dashboardprototypepy-52ehpnxczwf3cprjcg8zqc.streamlit.app/
+
 
 ## 📂 Project Structure
 
-* data/ - Data files (excluded from GitHub)
 * models/ - Machine learning models
 * notebooks/ - Jupyter notebooks
-* dashboard/ - Frontend (empty for now)
 * scripts/ - Main scripts
-* venv/ - Virtual environment (not included)
 
 ## 🛠 Installation & Setup  
 
@@ -33,7 +36,6 @@ cd Loan_Prediction_Dashboard
 ```bash
 python -m venv venv
 source venv/bin/activate  # On macOS/Linux
-venv\Scripts\activate     # On Windows
 ```
 
 3. **Install dependencies:**
@@ -47,4 +49,4 @@ python scripts/05_dashboard_prototype.py
 ## 🔥 Features
 
 Sample Data Exploration
-Dashboard UI 
+Interactive Dashboard UI 
